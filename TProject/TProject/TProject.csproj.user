@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Deposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Find_Remove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Issues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QOC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QOE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Send.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SIGNIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Update_cl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Withdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
